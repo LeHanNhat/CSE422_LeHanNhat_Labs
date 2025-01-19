@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LeHanNhat_Lab2_CSE422
+build_property.RootNamespace = LeHanNhat_Lab2_CSE422
+build_property.ProjectDir = D:\CSE422\Lab2\LeHanNhat_Lab2_CSE422\LeHanNhat_Lab2_CSE422\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CSE422\Lab2\LeHanNhat_Lab2_CSE422\LeHanNhat_Lab2_CSE422
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/DeviceCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/DeviceCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/DeviceCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/DeviceCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Device/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Device/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Device/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Device/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CSE422/Lab2/LeHanNhat_Lab2_CSE422/LeHanNhat_Lab2_CSE422/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u94499zg2n

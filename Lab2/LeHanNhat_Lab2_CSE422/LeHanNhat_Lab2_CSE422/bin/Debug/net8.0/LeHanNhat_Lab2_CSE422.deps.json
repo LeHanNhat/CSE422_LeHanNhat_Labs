@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeHanNhat_Lab2_CSE422/1.0.0": {
+        "runtime": {
+          "LeHanNhat_Lab2_CSE422.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeHanNhat_Lab2_CSE422/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

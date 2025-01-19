@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LeHanNhat_Lab2_CSE422.props" />
+</Project>

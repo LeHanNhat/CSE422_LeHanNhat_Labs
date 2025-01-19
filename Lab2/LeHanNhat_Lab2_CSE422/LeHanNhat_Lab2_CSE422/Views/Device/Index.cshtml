@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Device>
+
+<h2>Devices</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="row mb-3">
+        <div class="col">
+            <input type="text" name="searchString" class="form-control" placeholder="Search by name or code..." />
+        </div>
+        <div class="col">
+            <select name="categoryId" class="form-control" asp-items="@(new SelectList(ViewBag.Categories, "Id", "Name"))">
+                <option value="">All Categories</option>
+            </select>
+        </div>
+        <div class="col">
+            <select name="status" class="form-control" asp-items="@Html.GetEnumSelectList<DeviceStatus>()">
+                <option value="">All Statuses</option>
+            </select>
+        </div>
+        <div class="col">
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Code</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Entry Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            string categoryName = "";
+            foreach (var category in ViewBag.Categories)
+            {
+                if (category.Id == item.CategoryId)
+                {
+                    categoryName = category.Name;
+                    break;
+                }
+            }
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Code</td>
+                <td>@categoryName</td>
+                <td>@item.Status</td>
+                <td>@item.EntryDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
